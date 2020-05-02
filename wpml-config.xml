@@ -1,0 +1,14 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">fluxus_portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">fluxus-project-type</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="fluxus">
+            <key name="fluxus_copyright_text" />
+            <key name="fluxus_site_description" />
+        </key>
+    </admin-texts>
+</wpml-config>
